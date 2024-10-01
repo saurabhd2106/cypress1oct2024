@@ -1,0 +1,15 @@
+{
+  "name": "learningcypress",
+  "version": "1.0.0",
+  "description": "This is a project in cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Dhingra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.0",
+    "cypress-localstorage-commands": "^2.2.6"
+  }
+}
